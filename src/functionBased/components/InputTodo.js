@@ -22,6 +22,7 @@ const InputTodo = (props) => {
         title: '',
       });
     } else {
+      // eslint-disable-next-line
       alert('Please write item');
     }
   };

@@ -5,6 +5,7 @@ import styles from './TodoItem.module.css';
 const TodoItem = (props) => {
   const [editing, setEditing] = useState(false);
   useEffect(() => () => {
+    // eslint-disable-next-line
     console.log('Cleaning up...');
   }, []);
   const handleEditing = () => {
