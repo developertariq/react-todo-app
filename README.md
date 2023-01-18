@@ -184,9 +184,9 @@ Example:
 
 👤 **Md Tariq-ul Islam**
 
-- GitHub: @developertariq
-- LinkedIn: www.linkedin.com/in/developer-tariq
-- Twitter: @developer_tariq
+- GitHub: [@developertariq](https://github.com/developertariq)
+- LinkedIn: [@developer-tariq](https://www.linkedin.com/in/developer-tariq)
+- Twitter: [@developer_tariq](https://twitter.com/developer_tariq)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,7 +237,7 @@ I would like to thank Saba Ahmed.
 - **[Question_2]**
 
   - [Answer_2]
--->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
